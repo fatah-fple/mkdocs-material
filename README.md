@@ -239,7 +239,7 @@ For detailed installation instructions, configuration options, and a demo, visit
 [WTF](https://wtfutil.com/)
 
 ## License
-# Delete testing
+# Delete testing 1
 **MIT License**
 
 Copyright (c) 2016-2022 Martin Donath
